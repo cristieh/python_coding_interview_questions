@@ -1,0 +1,21 @@
+
++----------------------------------------+--------------------------------------+
+| Operator                               | Description                          |
++----------------------------------------+--------------------------------------+
+| ()                                     | Parentheses                          |
+| **                                     | Exponentiation                       |
+| -x, +x                                 | Negation and Unary Plus              |
+| *, /, //                               | Multiplication, Division, Floor     |
+|                                        | Division                             |
+| %                                      | Modulo                               |
+| +, -                                   | Addition and Subtraction             |
+| <<, >>                                 | Bitwise Shift                        |
+| &                                      | Bitwise AND                          |
+| |                                      | Bitwise OR                           |
+| ^                                      | Bitwise XOR                          |
+| ==, !=, >, <, >=, <=, is, is not,      | Comparison Operators                  |
+| in, not in                             |                                      |
+| not                                    | Boolean NOT                          |
+| and                                    | Boolean AND                          |
+| or                                     | Boolean OR                           |
++----------------------------------------+--------------------------------------+

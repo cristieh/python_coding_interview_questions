@@ -1,3 +1,5 @@
+#select the ... abov - right of the file name to see scenario
+
 income = float(input("Enter the annual income: "))
 
 if (income <= 85528):
